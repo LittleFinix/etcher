@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.42
+## (2019-05-27)
+
+* Use rendition theme property for step buttons [Lorenzo Alberto Maria Ambrosi]
+* Upgrade styled-system to v4.1.0 [Lorenzo Alberto Maria Ambrosi]
+* Upgrade rendition to v8.7.2 [Lorenzo Alberto Maria Ambrosi]
+
 # v1.5.41
 ## (2019-05-27)
 
